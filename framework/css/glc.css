@@ -1,0 +1,37 @@
+body{
+  border-top:4px solid #8b31e0;
+}
+
+h1{
+  color:#8b31e0;
+}
+a:hover{
+  color:#8b31e0;
+}
+.slide.intro .cursive,.slide.last .cursive{
+  color:#8b31e0;
+}
+.highlight em,a.highlight{
+color:#8b31e0;
+}
+.welcome h2{
+color:#8b31e0;
+}
+#indicator{
+  color:#8b31e0;
+}
+.slide.intro footer a{
+  color:#8b31e0;
+}
+footer .arrow{
+  color:#8b31e0;
+}
+.table-of-contents a:hover{
+  color:#8b31e0;
+}
+.heading-bg span{
+background:rgba(139,49,224,0.8);
+}
+.slide.intro{
+  background:-webkit-linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),url(../img/banner-home5.jpg) no-repeat;background:linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),url(../img/banner-home5.jpg) no-repeat;background-size:cover;
+}
