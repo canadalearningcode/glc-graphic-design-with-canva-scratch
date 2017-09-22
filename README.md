@@ -28,7 +28,7 @@ Youth Facilitator / Lead Instructor Handbook: <a href="http://bit.ly/youth-facil
 
 * Select 1-2 activities from the Activity List (depending on age group)
 * Test out <a href="https://www.canva.com/">Canva</a> and look through the activity Solution Sheets
-* Create a class in the Scratch Teacher account, and upload the starter project(s) - OR confirm that this has been done.
+* Create a class in the Scratch Teacher account - OR confirm that this has been done. <i>(You do not need to upload a starter project for this workshop)</i>
 * Create a bit.ly link to join the class - OR confirm that this has been done. (e.g. bit.ly/glcday-toronto)
 * Make a student account using the bit.ly link and practice going through the selected activities in Scratch. (DO NOT EDIT THE STARTER PROJECT FROM THE TEACHER ACCOUNT)
 
