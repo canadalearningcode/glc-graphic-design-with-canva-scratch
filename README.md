@@ -1,12 +1,12 @@
 ## English: (Scroll down for French)
 
-# Girls Learning Code: Graphic Design with Canva
+# Girls Learning Code: Graphic Design with Canva &amp; Scratch
 
 ## Quick Links
 
-Preview Lead Instructor Notes: <a href="https://ladieslearningcode.github.io/glc-graphic-design-with-canva/notes-en.html">ladieslearningcode.github.io/glc-graphic-design-with-canva/notes-en.html</a>
+Preview Lead Instructor Notes: <a href="https://ladieslearningcode.github.io/glc-graphic-design-with-canva-scratch/notes-en.html">ladieslearningcode.github.io/glc-graphic-design-with-canva/notes-en.html</a>
 
-Preview Slides: <a href="https://ladieslearningcode.github.io/glc-graphic-design-with-canva/slides-en.html">ladieslearningcode.github.io/glc-graphic-design-with-canva/slides-en.html</a>
+Preview Slides: <a href="https://ladieslearningcode.github.io/glc-graphic-design-with-canva-scratch/slides-en.html">ladieslearningcode.github.io/glc-graphic-design-with-canva/slides-en.html</a>
 
 Activity List: <a href="http://bit.ly/graphic-design-activity-list">bit.ly/graphic-design-activity-list</a>
 
@@ -26,23 +26,28 @@ Youth Facilitator / Lead Instructor Handbook: <a href="http://bit.ly/youth-facil
 
 3 Days to Go
 
-* Select 2-4 activities from the Activity List (depending on age group)
+* Select 1-2 activities from the Activity List (depending on age group)
 * Test out <a href="https://www.canva.com/">Canva</a> and look through the activity Solution Sheets
+* Create a class in the Scratch Teacher account, and upload the starter project(s) - OR confirm that this has been done.
+* Create a bit.ly link to join the class - OR confirm that this has been done. (e.g. bit.ly/glcday-toronto)
+* Make a student account using the bit.ly link and practice going through the selected activities in Scratch. (DO NOT EDIT THE STARTER PROJECT FROM THE TEACHER ACCOUNT)
+
+<strong>Here is the list of the <a href="https://docs.google.com/document/d/1eLUxo_fwtSpqbp5XuUpKyT_fDkXoHhWtVr02K-CTrwo/edit?usp=sharing">Scratch Teacher Account info</a> for each chapter </strong>
 
 2 Days To Go
 
 * Update the slides (in a text editor, like <a href="https://atom.io/">atom.io</a>):
     * Insert the network info (Slide 1)
     * Edit the Agenda to adjust timing and/or activities, if applicable (Slide 5)
-    * Update the Example Project slides, if applicable (Slide 10-13)
+    * Update the Example design slide, if applicable (Slide 25)
 
 1 Day to Go
 
-* Print the Notes to bring to the workshop (Optional: Print solution sheets, found in Activity List).
+* Print the Notes to bring to the workshop and solution sheets, found in Activity List.
 
-## During the Workshsop
+## During the Workshop
 * Have the Notes accessible throughout the workshop, follow along in the Notes for support.
-* Use the slides to support the Kick-Off and Introduction.
+* Use the slides to support throughout.
 
 ## After the Workshop
 * Give yourself a pat on the back - You did it!
