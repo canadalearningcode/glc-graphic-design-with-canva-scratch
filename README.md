@@ -1,3 +1,11 @@
+## This content is featured in a monthly theme!
+
+In 2019, we want to challenge Canadians to pause and think, learn about, share, and work towards solving issues that affect us all on a global scale – while leveraging the power of technology!  More information on monthly themes [here](https://www.canadalearningcode.ca/code-can-change-the-world/)
+
+*APRIL'S THEME IS: HEALTH & WELL-BEING*
+
+See slide 9 for suggestions on how learners can incorporate this month’s theme into their projects - if they choose to participate.
+
 ## English: (Scroll down for French)
 
 # Girls Learning Code: Graphic Design with Canva &amp; Scratch
